@@ -7,10 +7,7 @@ function App() {
       <Tweet name = "Sara" message= "u r a strong women" / >
       <Tweet name = "Adam" message="u got this" / >
       <Tweet name ="Amnesia" message= "it feels good"/ >
-
-
-
-    </div>
+ </div>
   );
 }
 
